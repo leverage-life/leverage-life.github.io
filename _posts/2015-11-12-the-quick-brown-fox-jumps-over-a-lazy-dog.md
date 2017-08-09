@@ -1,14 +1,8 @@
 ---
 layout: post
 title: "The quick, brown fox jumps over a lazy dog"
-date: 2015-11-12 16:42:24
+date: 2015-11-12
 comments: true
-description: "The quick, brown fox jumps over a lazy dog"
-keywords: ""
-categories:
-- welcome
-tags:
-- welcome
 ---
 
 The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.
