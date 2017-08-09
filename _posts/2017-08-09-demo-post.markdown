@@ -1,6 +1,0 @@
----
-title: Demo post
-date: 2017-08-09 02:42:00 Z
----
-
-Just trying this out
