@@ -1,7 +1,7 @@
 ---
+title: The quick, brown fox jumps over a lazy dog
+date: 2015-11-12 00:00:00 Z
 layout: post
-title: "The quick, brown fox jumps over a lazy dog"
-date: 2015-11-12
 comments: true
 ---
 
