@@ -25,6 +25,9 @@ section#post {
 		line-height: 1.8rem;
 		margin-top: 40px;
 		margin-bottom: 40px;
+		& a {
+			border-bottom: 1px solid $link-underline;
+		}
 	}
 	& blockquote {
 		border-left: 1px solid #999;
@@ -34,7 +37,6 @@ section#post {
 	& a {
 		text-decoration: none;
 		color: $text-color;
-		border-bottom: 1px solid $link-underline;
 	}
 	& ul {
 		font-weight: 300;
