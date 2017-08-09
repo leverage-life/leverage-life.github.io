@@ -1,6 +1,6 @@
 ---
-title: 'The quick, brown fox jumps over a lazy dog'
-date: 2015-11-12 00:00:00
+title: The quick, brown fox jumps over a lazy dog
+date: 2015-11-11 18:00:00 -06:00
 layout: post
 comments: false
 ---
