@@ -4,3 +4,9 @@ markdown: kramdown
 sass:
   sass_dir: _scss
   style: compressed
+
+# Gems
+gems: [jekyll-paginate]
+
+paginate: 2 #6
+paginate_path: "/page/:num"
