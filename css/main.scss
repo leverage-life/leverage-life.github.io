@@ -4,3 +4,9 @@
 @charset "utf-8";
 
 @import "base";
+@import "variables"; //colours and other variables
+@import "mixins"; //mixins
+@import "nav"; //navigation
+@import "core"; //base settings
+@import "post"; //individual post styling
+@import "divider"; //post divider scss

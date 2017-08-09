@@ -8,5 +8,5 @@ sass:
 # Gems
 gems: [jekyll-paginate]
 
-paginate: 2 #6
+paginate: 3 #6
 paginate_path: "/page/:num"
