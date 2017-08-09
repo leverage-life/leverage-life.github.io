@@ -1,2 +1,6 @@
 name: Levered Life
 markdown: kramdown
+
+sass:
+  sass_dir: _scss
+  style: compressed
