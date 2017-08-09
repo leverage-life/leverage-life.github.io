@@ -12,6 +12,9 @@
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-weight: 600;
   font-size: 15px;
+  & a {
+    color: #fff !important;
+  }
 }
 
 .share-button:hover {
@@ -46,25 +49,6 @@
 .share-button.reddit { background-color: #5f99cf; }
 .share-button.reddit:hover { background-color: #75a6d4; }
 
-.share-button.tumblr { background-color: #35465c; }
-.share-button.tumblr:hover { background-color: #455166; }
 
 .share-button.hacker-news { background-color: #ff6600; }
 .share-button.hacker-news:hover { background-color: #ff7515; }
-
-.share-button.designer-news { background-color: #2d72d9; }
-.share-button.designer-news:hover { background-color: #3d82e9; }
-
-.share-button.google-plus {
-  background-color: #fefefe;
-  color: #333;
-}
-
-.share-button.google-plus:hover {
-  background-color: #f6f6f6;
-  color: #333;
-}
-
-.share-button.google-plus svg {
-  fill: #DB4437;
-}
