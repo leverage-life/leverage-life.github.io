@@ -38,7 +38,7 @@ section#post {
 		text-decoration: none;
 		color: $text-color;
 	}
-	& ul {
+	& ul, ol {
 		font-weight: 300;
 		font-size: 1.25rem;
 		list-style-type: circle;
