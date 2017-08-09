@@ -72,12 +72,5 @@ section#post {
 	& .center {
 		text-align: center;
 		color: $title-color;
-
-		-moz-transition: all $transition-speed;
-    	-webkit-transition: all $transition-speed;
-    	transition: all $transition-speed;
-		&:hover {
-			opacity: 0.8;
-		}
 	}
 }
