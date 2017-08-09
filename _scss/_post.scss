@@ -24,6 +24,9 @@ section#post {
 		font-size: 1.5rem;
 		&:hover {
 			opacity: 0.5;
+			-moz-transition: all $transition-speed;
+    		-webkit-transition: all $transition-speed;
+    		transition: all $transition-speed;
 		}
 	}
 	& b {
@@ -70,6 +73,9 @@ section#post {
 		color: $title-color;
 		&:hover {
 			opacity: 0.5;
+			-moz-transition: all $transition-speed;
+    		-webkit-transition: all $transition-speed;
+    		transition: all $transition-speed;
 		}
 	}
 }
