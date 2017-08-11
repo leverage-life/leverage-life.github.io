@@ -1,7 +1,7 @@
 //General
 .submitButton {
 	display: inline-block;
-	margin: 5px auto;
+	margin: 0 auto;
 	font-family: $body-font;
 	text-decoration: none;
 	cursor: pointer;
@@ -10,7 +10,7 @@
     background-color: $title-color;
     font-weight: 400;
     font-size: 18px;
-    padding: 10px;
+    padding: 11px;
     text-align: center;
     border: 0;
 }
@@ -21,17 +21,17 @@
 .contactInput {
     display: inline-block;
     font-family: $body-font;
-    margin: 1%;
+    margin: 0 auto;
     text-decoration: none;
     cursor: pointer;
     outline: none;
     color: $text-color;
     background-color: $background;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 18px;
     text-align: left;
     border: 3px solid $title-color;
     min-width: 220px;
-    padding: 6px 12px;
+    padding: 9px 12px;
     width: 200px;
 }
