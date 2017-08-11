@@ -3,11 +3,8 @@ title: Levered Life
 layout: default
 ---
 
-	<section id="post">
-		<h1 class="pagetitle"><a href="/">Levered Life</a></h1>
-		<p class="first-line center">Finance, Smart Home, Books, Apps, Life</p>
-	</section>
-	<div class="divider"></div>
+	{% include _header.html %}
+	{% include _divider.html %}
 
 
 	{% for post in paginator.posts %}
@@ -20,7 +17,7 @@ layout: default
 	    {{ post.excerpt }}
 	  </div>
 	</section>
-	<div class="divider"></div>
+	{% include _divider.html %}
 	{% endfor %}
 
 	<!-- Pagination links -->
