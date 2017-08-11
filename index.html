@@ -8,39 +8,20 @@ layout: default
 
 
 	{% for post in paginator.posts %}
-	<section id="post">
-	  <h1 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-	  <p class="author">
-	    <span class="date">{{ post.date | date_to_string }}</span>
-	  </p>
-	  <div class="content">
-	    {{ post.excerpt }}
-	  </div>
-	</section>
-	{% include _divider.html %}
+		<section id="post">
+		  <h1 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		  <p class="author">
+		    <span class="date">{{ post.date | date_to_string }}</span>
+		  </p>
+		  <div class="content">
+		    {{ post.excerpt }}
+		  </div>
+		</section>
+		{% include _divider.html %}
 	{% endfor %}
+	
+	{% include _pagination_links.html %}
 
-	<!-- Pagination links -->
-	<section id="post">
-		<div class="pagination">
-		<p class="center">
-		  {% if paginator.previous_page %}
-		    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-		  {% else %}
-		    <span class="previous">Previous</span><span>   |   </span>
-		  {% endif %}
-		  <em><span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span></em>
-		  <span>  |   </span>
-		  {% if paginator.next_page %}
-		    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-		  {% else %}
-			<span class="next ">Next</span>
-		  {% endif %}
-		</p>
-		</div>
-		<!-- Commented Out Below Here -->
-<!-- 	<p class="center"> 
-		<a href="/">Home</a> | <a href="#">About</a> | <a href="/atom.xml">Feed</a> | <a href="#">Newsletter</a> | Copyright 2017
-	</p> -->
+	{% include _footer.html %}
 
 	</section>
