@@ -1,6 +1,6 @@
 //General
 .submitButton {
-	display: block;
+	display: inline-block;
 	margin: 5px auto;
 	font-family: $body-font;
 	text-decoration: none;
@@ -19,7 +19,7 @@
 }
 
 .contactInput {
-    display: block;
+    display: inline-block;
     font-family: $body-font;
     margin: 5px auto;
     text-decoration: none;
@@ -33,5 +33,5 @@
     border: 3px solid $title-color;
     min-width: 220px;
     padding: 9px 12px;
-    width: 200px;
+    width: 30%;
 }
