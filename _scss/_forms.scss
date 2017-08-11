@@ -1,0 +1,37 @@
+//General
+.submitButton {
+	display: block;
+	margin: 5px auto;
+	font-family: $body-font;
+	text-decoration: none;
+	cursor: pointer;
+	outline: none;
+    color: $background;
+    background-color: $menu-link;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
+    border: 0;
+}
+.submitButton:hover {
+    background-color: $text-color;
+}
+
+.contactInput {
+    display: inline-block;
+    font-family: $body-font;
+    margin: 1%;
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+    color: $text-color;
+    background-color: $background;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    border: 3px solid $background;
+    min-width: 220px;
+    padding: 6px 12px;
+    width: 200px;
+}
