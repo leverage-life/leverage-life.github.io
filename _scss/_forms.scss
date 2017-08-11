@@ -7,7 +7,7 @@
 	cursor: pointer;
 	outline: none;
     color: $background;
-    background-color: $menu-link;
+    background-color: $title-color;
     font-weight: 400;
     font-size: 18px;
     padding: 10px;
@@ -30,7 +30,7 @@
     font-weight: 400;
     font-size: 16px;
     text-align: left;
-    border: 3px solid $background;
+    border: 3px solid $title-color;
     min-width: 220px;
     padding: 6px 12px;
     width: 200px;
