@@ -15,7 +15,9 @@ section#post {
 		font-size: 4.5rem;
 		text-align: center;
 		margin-bottom: -40px;
-		color: $title-color;
+		& a {
+			color: $title-color !important;
+		}
 	}
 	& h1, h2, h3, h4, h5, h6 {
 		font-family: $header-font;
