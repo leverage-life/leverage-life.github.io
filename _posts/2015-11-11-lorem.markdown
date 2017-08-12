@@ -1,6 +1,6 @@
 ---
 title: Lorem ipsum dolor sit amet
-date: 2015-11-12 00:00:00 Z
+date: 2015-11-11 18:00:00 -06:00
 layout: post
 ---
 
