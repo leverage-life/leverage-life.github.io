@@ -138,6 +138,9 @@ body.menu-active div#content .menu-trigger { left: 294px; }
 //NEW!!
 /* Important styles */
 .menu-trigger {
+  position: fixed;
+  top: 10px;
+  left: 10px;
   display: block;
   width: 28px;
   height: 30px;
