@@ -67,6 +67,7 @@ section#post {
 	}
 	& .first-line:first-line {
 		font-variant: small-caps;
+		margin-bottom: 0 !important;
 	}
 	&:first-child {
 		margin-top: 0px;
