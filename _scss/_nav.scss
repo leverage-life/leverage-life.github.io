@@ -22,9 +22,9 @@ nav#slide-menu {
   font-family: $body-font;
   height: 100%;
   background: $text-color;
-  -moz-transition: all $transition-speed;
-  -webkit-transition: all $transition-speed;
-  transition: all $transition-speed;
+  -moz-transition: all $transition-speed/2;
+  -webkit-transition: all $transition-speed/2;
+  transition: all $transition-speed/2;
 
   > ul {
     display: block;
@@ -32,9 +32,9 @@ nav#slide-menu {
     list-style: none;
     opacity: 0.5;
 
-    -moz-transition: all $transition-speed;
-    -webkit-transition: all $transition-speed;
-    transition: all $transition-speed;
+    -moz-transition: all $transition-speed/2;
+    -webkit-transition: all $transition-speed/2;
+    transition: all $transition-speed/2;
 
     li {
       color: $menu-link;
@@ -92,9 +92,9 @@ div#content {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 
-  -moz-transition: all $transition-speed;
-  -webkit-transition: all $transition-speed;
-  transition: all $transition-speed;
+  -moz-transition: all $transition-speed/2;
+  -webkit-transition: all $transition-speed/2;
+  transition: all $transition-speed/2;
 
   // div.menu-trigger {
     // position: fixed;
@@ -106,9 +106,9 @@ div#content {
     // cursor: pointer;
     // border-radius: 5px;
 
-    // -moz-transition: all $transition-speed;
-    // -webkit-transition: all $transition-speed;
-    // transition: all $transition-speed;
+    // -moz-transition: all $transition-speed/2;
+    // -webkit-transition: all $transition-speed/2;
+    // transition: all $transition-speed/2;
 
 
 
