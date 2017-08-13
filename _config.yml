@@ -1,6 +1,5 @@
 ---
 title: Levered Life
-description: All things smart home, home automation, and digital integration
 timezone: America/Chicago
 collections:
   posts:
@@ -9,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+description: All things smart home, home automation, and digital integration
 name: Levered Life
 markdown: kramdown
 sass:
