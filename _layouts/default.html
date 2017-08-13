@@ -5,6 +5,7 @@
 			<title>{{ page.title }}</title>
 			<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 			{% seo %}
+			<link rel="canonical" href="{{ page.url | prepend: site.url }}">
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
