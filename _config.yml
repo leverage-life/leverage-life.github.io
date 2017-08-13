@@ -16,5 +16,6 @@ sass:
   style: compressed
 gems:
 - jekyll-paginate
+- jekyll-sitemap
 paginate: 2
 paginate_path: "/page/:num"
