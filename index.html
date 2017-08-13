@@ -12,7 +12,7 @@ layout: default
 		  <h1 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		  <div class="content">
 		  <p>
-		    {{ post.excerpt }}
+		    {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 		  </p>
 		  </div>
 		</section>
