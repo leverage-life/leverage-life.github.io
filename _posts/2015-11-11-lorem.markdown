@@ -1,6 +1,8 @@
 ---
 title: Lorem ipsum dolor sit amet
 date: 2015-11-11 18:00:00 -06:00
+description: This is just a sample post - Ignore
+excerpt: Read this post (EXERPT!)
 layout: post
 ---
 
