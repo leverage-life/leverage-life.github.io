@@ -17,5 +17,5 @@ sass:
 gems:
 - jekyll-paginate
 - jekyll-sitemap
-paginate: 2
+paginate: 5
 paginate_path: "/page/:num"
