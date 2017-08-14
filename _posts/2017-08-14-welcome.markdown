@@ -1,0 +1,18 @@
+---
+title: Welcome
+date: 2017-08-14 10:46:00 -05:00
+---
+
+Hey y'all.
+
+So this is the start of a brand new type of blog for me - I've blogged about a few other things before, and saw that there is some (but not nearly enough) information on all different sorts of things relating to smart homes, home automation, and automation/integration of digital services and life.
+
+I've got a few posts planned out which I'll keep secret for now, but I thought it'd be good to go over some of the technology I'll mainly be covering.
+
+I'll be using iOS and MacOS (OSX) for most of the software side, so many of the apps and programs I might use are exclusive to those platforms.
+
+For home automation, I use Philips Hue (& compatible lights/sensors/remotes), Google Home, Google WiFi, TP-Link, and a few other integrated plugs (either HomeKit or Google Home compatible products really).
+
+On iOS, I'm a huge app fan, so I'll get into all of that later, but we will be seeing some integration with workflow (okay - there is a hint at what's coming, I lied).
+
+That's all for now - the first real post should be coming in a day or so!
