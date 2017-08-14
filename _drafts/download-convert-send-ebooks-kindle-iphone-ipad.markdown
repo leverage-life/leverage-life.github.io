@@ -15,4 +15,6 @@ I'm a big reader, and ever since I got a Kindle I've started reading a ton more 
 
 The most common recommendation I found when I was getting started was an incredible desktop software program called [Calibre](https://calibre-ebook.com/). It's not too pretty, but it works really well once you've got it set up. This was my go-to for a couple of years, before I got tired of having to manage everything on the computer. It was time to find a mobile solution.
 
-Enter [Workflow](https://workflow.is/)
+Enter [Workflow](https://workflow.is/). For those of you who don't know, Workflow is basically a visual programming language (no, don't let that scare you). It lets you create "workflows" to complete multi-step tasks in a single tap.
+
+![Workflow Example.png](/uploads/Untitled.png)
