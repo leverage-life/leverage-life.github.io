@@ -17,4 +17,17 @@ The most common recommendation I found when I was getting started was an incredi
 
 Enter [Workflow](https://workflow.is/). For those of you who don't know, Workflow is basically a visual programming language (no, don't let that scare you). It lets you create "workflows" to complete multi-step tasks in a single tap.
 
-![Workflow Example.png](/uploads/Untitled.png)
+![Workflow.is Screenshot Example.png](/uploads/Workflow.is-Screenshot.png)
+
+As you can see above, there are a wide variety of different things you can do.
+
+Now, onto the meat of the post. What do you need?
+* Kindle
+* iOS Device
+* [Workflow](https://workflow.is/) App
+* Email Account
+* [CloudConvert](https://cloudconvert.com/) Free Account
+
+Lets get started!
+
+
