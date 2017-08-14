@@ -1,6 +1,10 @@
 ---
 title: Welcome
 date: 2017-08-14 10:46:00 -05:00
+excerpt: Welcome to the blog - A place for discussion and simplification of the world
+  of Smart Homes, Digital Integration, and Home Automation
+description: Welcome to Levered Life, a blog about all things smart home, home automation,
+  and digital integration.
 ---
 
 Hey y'all.
@@ -13,6 +17,6 @@ I'll be using iOS and MacOS (OSX) for most of the software side, so many of the 
 
 For home automation, I use Philips Hue (& compatible lights/sensors/remotes), Google Home, Google WiFi, TP-Link, and a few other integrated plugs (either HomeKit or Google Home compatible products really).
 
-On iOS, I'm a huge app fan, so I'll get into all of that later, but we will be seeing some integration with workflow (okay - there is a hint at what's coming, I lied).
+On iOS, I'm a huge app fan, so I'll get into all of that later, but we will be seeing some integration with Workflow (okay - there is a hint at what's coming, I lied).
 
 That's all for now - the first real post should be coming in a day or so!
