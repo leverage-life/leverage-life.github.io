@@ -2,7 +2,7 @@
 title: Welcome
 date: 2017-08-14 10:46:00 -05:00
 excerpt: Welcome to the blog - A place for discussion and simplification of the world
-  of Smart Homes, Digital Integration, and Home Automation
+  of Smart Homes, Digital Integration, and Home Automation.
 description: Welcome to Levered Life, a blog about all things smart home, home automation,
   and digital integration.
 ---
