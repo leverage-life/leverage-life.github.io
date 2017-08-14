@@ -10,4 +10,9 @@ description: How to download and convert epub, mobi, zip, and azw ebooks using o
 ---
 
 “A reader lives a thousand lives before he dies ... The man who never reads lives only one.” (George R.R. Martin)
-I'm a big reader, and ever since I got a Kindle I've started reading a ton more "old" books, for two main reasons. One, the stuff I'm reading has usually stood the test of time, and two, much of it is legally and freely available. [Project Gutenberg](https://www.gutenberg.org/) is great for finding material with no copyright, however sometimes the file format can be difficult. 
+
+I'm a big reader, and ever since I got a Kindle I've started reading a ton more "old" books, for two main reasons. One, the stuff I'm reading has usually stood the test of time, and two, much of it is legally and freely available. [Project Gutenberg](https://www.gutenberg.org/) is great for finding material with no copyright, however sometimes the file format can be difficult. Sometimes I buy books from places other than Amazon as well (such as [Kobo](https://www.kobo.com/)), but of course the formats don't play nice. So, what can we do?
+
+The most common recommendation I found when I was getting started was an incredible desktop software program called [Calibre](https://calibre-ebook.com/). It's not too pretty, but it works really well once you've got it set up. This was my go-to for a couple of years, before I got tired of having to manage everything on the computer. It was time to find a mobile solution.
+
+Enter [Workflow](https://workflow.is/)
