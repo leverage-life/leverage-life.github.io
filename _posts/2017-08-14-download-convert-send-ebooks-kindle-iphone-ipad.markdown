@@ -1,6 +1,7 @@
 ---
 title: Download, Convert, and Send Ebooks to Kindle from your iPhone or iPad
 date: 2017-08-14 17:05:00 -05:00
+published: false
 excerpt: |-
   Ever wanted to send an ebook you downloaded to your Kindle without using Calibre or trying to find the right format on your iOS device?
 
